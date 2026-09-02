@@ -1,0 +1,7 @@
+pandas
+scipy
+matplotlib
+ipykernel
+beautifulsoup4
+requests
+lxml
