@@ -1,6 +1,7 @@
 pandas
 scipy
 matplotlib
+seaborn
 ipykernel
 beautifulsoup4
 requests
