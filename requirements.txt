@@ -1,6 +1,7 @@
 pandas
 scipy
 matplotlib
+ploty
 seaborn
 ipykernel
 beautifulsoup4
